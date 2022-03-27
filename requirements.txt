@@ -1,0 +1,7 @@
+numpy
+opencv
+skimage
+tensorflow
+albumentations
+tqdm
+scikit-learn
